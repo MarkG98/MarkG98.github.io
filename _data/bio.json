@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Mark Goldwater",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://MarkG98.github.io/images/profile.jpg",
+    "email": "mark.goldwater@students.olin.edu",
+    "phone": "",
+    "website": "https://MarkG98.github.io",
+    "summary": "I am a sophomore studying for a B.S. in Electrical Computer Engineering at Franklin W. Olin College of Engineering. I am passionate about robotics, signal processing, and machine learning and have explored these topics through the various projects and classwork I have done.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,45 +17,16 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "MarkG98",
+        "url": "http://github.com/MarkG98"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "mark-g",
+        "url": "http://linkedin.com/in/mark-g-892273125"
       }
     ]
   },
-  "interests": [
-    {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
-  ],
   "skills": [
     {
       "name": "Languages and Frameworks",
