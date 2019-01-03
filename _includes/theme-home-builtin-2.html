@@ -18,20 +18,22 @@
     <p class="">
       {{ site.data.bio.basics.summary }}
     </p>
-    <p>Interests:
-      {% for interest in site.data.bio.interests %}
-        {{ interest.name }}{% if forloop.last != true %}, {% endif %}
-      {% endfor %}
-    </p>
+    {% if site.data.bio.interests %}
+      <p>Interests:
+        {% for interest in site.data.bio.interests %}
+          {{ interest.name }}{% if forloop.last != true %}, {% endif %}
+        {% endfor %}
+      </p>
+    {% endif %}
     <p style="text-align: center">
       {% include home-network-links.html %}
     </p>
     <p style="text-align: center">
       <a href="{{ site.baseurl}}/projects/">
-        <button class="ui basic button">Projects ({{ num_projects }})</button>
+        <button class="ui basic button">Projects</button>
       </a>
-      <a href="{{ site.baseurl}}/essays/">
-        <button class="ui basic button">Essays ({{ num_essays }})</button>
+      <a href="{{ site.baseurl}}/comingsoon.html">
+        <button class="ui basic button">Research</button>
       </a>
       <a href="{{ site.baseurl}}/bio/">
         <button class="ui basic button">{{ site.bio-page-label }}</button>

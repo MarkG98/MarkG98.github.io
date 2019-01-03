@@ -1,25 +1,24 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/ancresults.jpg
+title: Active Noise Cancellation
+permalink: projects/activenoisecancellation
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date:
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - MATLAB
+  - Signals and Systems
+  - Adaptive Filtering
+summary: A pseudo real-time implementation of active noise cancellation in MATLAB using least mean squares (LMS) minimization.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui large rounded image" src="../images/cancelbd.JPG">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+For this project I used a raspberry pi to record a the primary signal (speech and background noise) and the reference signal (only noise) simultaneously. Then, in MATLAB, I implemented the least mean squares minimization algorithm in order to filter the correlated noise recorded by the reference microphone to be as similar as possible to the noise in the primary microphone recording. Finally, this filtered noise was subtracted from the primary micrphone recording, leaving only the speech.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+This post processing implementation was successful which proved that, given the proper hardware, a real-time implementation would be possible.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+## [Click Here For Formal Paper](https://github.com/MarkG98/ActiveNoiseCancellation/blob/master/Paper.pdf)
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/MarkG98/ActiveNoiseCancellation"><i class="large github icon"></i>MarkG98 / ActiveNoiseCancellation</a>
