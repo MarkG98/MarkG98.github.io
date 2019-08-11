@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/ancresults.jpg
 title: Active Noise Cancellation
-permalink: projects/activenoisecancellation
+permalink: projects/active-noise-cancellation
 # All dates must be YYYY-MM-DD format!
 date:
 labels:

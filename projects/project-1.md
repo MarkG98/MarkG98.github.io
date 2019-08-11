@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/rocky.jpg
 title: Inverted Pendulum Control System
-permalink: projects/invertedpendulum
+permalink: projects/inverted-pendulum
 # All dates must be YYYY-MM-DD format!
 date:
 labels:
