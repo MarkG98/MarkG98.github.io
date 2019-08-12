@@ -12,7 +12,7 @@ labels:
   - Signals and Systems
   - MATLAB
 
-summary:  A braille sheet music printer designed for musicians with visual impairment. 
+summary:  Implementation of the BPSK and QPSK modulation schemes in a visible light communication system. 
 ---
 
 <img class="ui extra-large top rounded image" src="../images/ADCSystemDiagram.png">
