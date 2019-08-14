@@ -20,8 +20,8 @@ summary: Implementation of a PI controller for an inverted pendulum using Arduin
 
 For my Quantitative Engineering Analysis class, my partner and I were given the inverted pendulum apparatus as shown to the right. Our task was to design and implement a controller so that the robot would stand up still and move foward.
 
-In order to accomplish this task, we created a block diagram for our system illustrating how the angle controller and motor speed controller interact with the physical system of the inverted pendulum. From this block diagram we were able to calculate a tranfer function for the system and adjusted the parameters by analyzing the poles and zeros of this function.
 
+In order to accomplish this task, we created a block diagram for our system illustrating how the angle controller and motor speed controller interact with the physical system of the inverted pendulum. From this block diagram we were able to calculate a tranfer function for the system and adjusted the parameters by analyzing the poles and zeros of this function.
 
 <img class="ui medium middle floated image" src="../images/velocity.jpg">
 
@@ -29,10 +29,6 @@ In the end, our mathematical predictions led to a successful implementation, for
 
 
 ## [Click Here For Formal Paper](https://github.com/MarkG98/Rocky/blob/master/paper.pdf)
-
-<br />
-<br />
-
 
 Source: <a href="https://github.com/MarkG98/Rocky"><i class="large github icon"></i>MarkG98 / Rocky</a>
 
@@ -42,10 +38,13 @@ Source: <a href="https://github.com/MarkG98/Rocky"><i class="large github icon">
 <br />
 
 
-<div class="ui embed left float" data-source="youtube" data-id="8NEHefY7nq4"></div>
-<br />
-<div class="ui embed right float" data-source="youtube" data-id="Bw5P65t4VOY"></div>
+<h2 style="text-align: center;">Videos</h2>
 
+<div class="ui tiny embed left float" data-source="youtube" data-id="8NEHefY7nq4"></div>
+
+<br/>
+
+<div class="ui embed tiny right float" data-source="youtube" data-id="Bw5P65t4VOY"></div>
 
 
 
