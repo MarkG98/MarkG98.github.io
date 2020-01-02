@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/scanner.jpg
-title: 3D Scanner
+title: 3D Infrared Scanner
 permalink: projects/scanner
 # All dates must be YYYY-MM-DD format!
 date:
