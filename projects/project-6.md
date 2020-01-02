@@ -7,10 +7,10 @@ permalink: projects/multi-cycle-cpu
 # All dates must be YYYY-MM-DD format!
 date:
 labels:
-	- Verilog
-	- Assembly
-	- Digital Hardware Design
-	- Computer Architecture
+  - Verilog
+  - Assembly
+  - Digital Hardware Design
+  - Computer Architecture
 
 summary:  Designed, implemented in Verilog, and tested a multi-cycle CPU with custom Assembly programs.
 ---
