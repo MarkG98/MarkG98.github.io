@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ConstellationPlot.jpg
+image: images/CPU.jpg
 title: Multi-cycle CPU
 permalink: projects/multi-cycle-cpu
 # All dates must be YYYY-MM-DD format!
