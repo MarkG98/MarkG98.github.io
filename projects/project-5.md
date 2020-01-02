@@ -17,7 +17,7 @@ summary:  Implementation of the BPSK and QPSK modulation schemes in a visible li
 
 <img class="ui extra-large top rounded image" src="../images/ADCSystemDiagram.png">
 
-In this project, my team and I utilized two USRP1 devices in order to transmit and recieve a modulated bits which were emitted from an LED and initially received by a photodiode, hence Visible Light Communication (VLC).
+In this project, my team and I utilized two USRP1 devices in order to transmit and recieve modulated bits which were emitted from an LED and initially received by a photodiode, hence Visible Light Communication (VLC).
 
 Our first milestone in this project was implementing Binary Phase Shift Keying (BPSK) which only utilized the "cosine path" in the system diagram to modulate and send the signal. Next, we implemented Quadrature Phase Shift Keying (QPSK) in which two bits are modulated at once throught both the "sine path" and the "cosine path" effectivly allowing the signal to carry twice as much information.
 
