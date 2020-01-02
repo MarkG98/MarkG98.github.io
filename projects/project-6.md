@@ -17,4 +17,4 @@ summary:  Designed, implemented in Verilog, and tested a multi-cycle CPU with cu
 
 In Olin College's Computer Architecture class, another peer and I designed and implemented a multi-cycle CPU in Verilog and wrote and tested Assembly programs to test it. As opposed to a single-cycle CPU which executes one instruction per clock cycle, the multi-cycle CPU takes a different number of clock cycles to execute different instructions. The schematic for the CPU can be found below:
 
-<img class="ui large floated rounded image" src="../images/CPU_Diagram.JPG">
+<img class="ui extra-large floated image" src="../images/CPU_Diagram.JPG">
