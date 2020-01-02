@@ -21,11 +21,11 @@ In Olin College's Computer Architecture class, another peer and I designed and i
 
 Note that we also designed and implemented the arithmatic logic unit (ALU) and register file components. When an instruction is initiated it follows the control signals of the various components in the CPU schematic (shown in red) are altered depending on the state. Then, the next state is determined by the current state and the instruction being executed. The FSM diagram can be seen below:
 
-<img class="ui large rounded image" src="../images/FSM.JPG">
+<img class="ui large image" src="../images/FSM.JPG">
 
 Consider a branch equals (BEQ) instruction. The CPU would begin in the instruction fetch (IF) state, move into the correct instruction decode state (ID_BNE_BEQ) which is the same for BEQ and branch not equal (BNE). Lastly, it would move into the correct execution state (EX_BEQ). At in each of these states, control signals are set so that the CPU is correctly carrying out the instruction. Every "leaf" of the "tree" FSM diagram leads back to the IF state to fetch the next instruction.
 
-## [VLC System Technical Report](https://github.com/MarkG98/lab4-xx_the_tri_cyclers_xx/blob/master/Lab04_Report.pdf)  
+## [Multi-Cycle CPU Technical Report](https://github.com/MarkG98/lab4-xx_the_tri_cyclers_xx/blob/master/Lab04_Report.pdf)  
 
 
 Source: <a href="https://github.com/MarkG98/lab4-xx_the_tri_cyclers_xx"><i class="large github icon"></i>MarkG98 / lab4-xx_the_tri_cyclers_xx</a>
