@@ -19,6 +19,6 @@ In Olin College's Computer Architecture class, another peer and I designed and i
 
 <img class="ui extra-large image" src="../images/CPU_Diagram.JPG">
 
-Note that we also designed and implemented the arithmatic logic unit (ALU) and register file components. When an instruction is initiated it follows the control signals of the various components in the CPU schematic (shown in red) are altered depending on the state. Then, the next state is determined by the current state and the instruction being executed. The FSM diagram can be seen below:
+Note that we also designed and implemented the arithmatic logic unit (ALU) and register file components. When an instruction is initiated it follows the control signals of the various components in the CPU schematic (shown in red) are altered depending on the state. Then, the next state is determined by the current state and the instruction being executed. The FSM diagram can be seen below
 
-<img class="ui extra-large image" src="../images/FSM.JPG">
+<img class="ui large rounded image" src="../images/FSM.JPG">
