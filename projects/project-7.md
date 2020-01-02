@@ -12,5 +12,5 @@ labels:
   - Digital Hardware Design
   - Computer Architecture
 
-summary:  Designed, implemented in Verilog, simulated, and tested a digital Morse code decoder on an FPGA.
+summary:  Designed, implemented in Verilog, simulated, and tested a digital Morse code to ASCII translator on an FPGA.
 ---
