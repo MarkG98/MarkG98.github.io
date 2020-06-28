@@ -18,7 +18,7 @@ summary:  Modeled the magnetic levitation system and designed as well as impleme
 
 <h2 style="text-align: center;">Animated Simulation</h2>
 
-<img src="../images/MagLev.gif">
+<img style="margin-left: 3em" src="../images/MagLev.gif">
 
 Above is a simulation of a magnetic levitation apparatus for which another peer and I designed and implemented a controller. Originally, this project was meant to be carried out with a physical apparatus; however, because of the COVID-19 pandemic, a highly realistic simulation of the system was utilized.
 
@@ -26,7 +26,7 @@ Above is a simulation of a magnetic levitation apparatus for which another peer 
 
 The system is shown in the diagram to the left and consists of an electromagnet, a Hall Effect sensor, a permanent magnet, drive control electronics, and a stand to hold the electromagnet in the air. The goal of the project was to change the voltage across the electromagnet such that the permanent magnet levetated a fixed distance from it. 
 
-Over the course of this project my partner and I created a mathematical model for the system as well as our own simulation so that we could test our controller. We then further developed our controller on the "real system", which is the simulation provided by our professor, by testing for and applying system parameters. An animated representation of the results of the "real system" simulation is what is shown in the GIF at the top of the page.
+Over the course of this project my partner and I created a mathematical model for the system as well as our own simulation so that we could test our PD controller. We then further developed our controller on the "real system", which is the simulation provided by our professor, by testing for and applying system parameters. An animated representation of the results of the "real system" simulation is what is shown in the GIF at the top of the page.
 
 One of the main challenges we encountered in controlling the system was utilizing the hall-effect sensor to determine the current distance between the permanent magnet and the electromagnet. In doing this, we created calibration curves to map the PWM input to the electromagnet to the Hall Effect sensor's voltage reading with no permanent magnet present and a mapping between the hall-effect sensor reading and the position of the permanent magnet with the electromagnet off. Using the fact that the magnetic fields from both magnets superimpose to induce a voltage on the Hall Effect sensor, we used a combination of these two mappings to determine the permanent magnet position for any PWM input to the electromagnet.
 
