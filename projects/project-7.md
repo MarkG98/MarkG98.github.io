@@ -16,9 +16,7 @@ labels:
 summary:  Modeled the magnetic levitation system and designed as well as implemented a controller in a simulation of the real system.
 ---
 
-<h2 style="text-align: center;">Animated Simulation</h2>
-
-<img style="margin-left: 3em" src="../images/MagLev.gif">
+<img class="ui centered image" src="../images/MagLev.gif">
 
 Above is a simulation of a magnetic levitation apparatus for which another peer and I designed and implemented a controller. Originally, this project was meant to be carried out with a physical apparatus; however, because of the COVID-19 pandemic, a highly realistic simulation of the system was utilized.
 
