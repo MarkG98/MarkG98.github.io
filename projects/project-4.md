@@ -26,4 +26,5 @@ Our team set out to develop a braille printer that can convert musical instrumen
 This project involved the integration of mechanical, software, and electrical hardware subsystems over the course of the project sprints. Details regarding the process and final product can be found at the project website [here.](http://poe.olin.edu/2018/techtile/index.html)
 
 <br>
+<br>
 Source: <a href="https://github.com/hyegibang/Techtile"><i class="large github icon "></i>hyegibang / Techtile</a>
