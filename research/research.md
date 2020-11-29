@@ -16,4 +16,4 @@ Presented research on the classification of dispersive whale calls at the end of
 
 Presented research on infrared camera calibration for power measurement in a laser communication terminal testbed to my group at MIT Lincoln Laboratory (August 2019) and at Olin College Exposition (December 2019). [<a href="{{ site.baseurl}}/posters/MITLL_Poster.pdf" target="_blank">poster</a>]
 
-Won best poster (and first place overll) in the MIT Lincoln Laboratory Intern Innovative Idea Competition for proposed research on a language model for two-way American Sign Language/English translation (July 2019). [<a href="{{ site.baseurl}}/posters/ENVOY_Poster.pdf" target="_blank">poster</a>]
+Won best poster (and first place overall) in the MIT Lincoln Laboratory Intern Innovative Idea Competition for proposed research on a language model for two-way American Sign Language/English translation (July 2019). [<a href="{{ site.baseurl}}/posters/ENVOY_Poster.pdf" target="_blank">poster</a>]
