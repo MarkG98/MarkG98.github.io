@@ -222,10 +222,10 @@ The CSV files with the original data included in the above plots can be found in
 
 <h3>Schematic</h3>
 
-<img class="ui centered extra-large image" src="../images/Schem.png">
+<img class="ui centered extra-large image" src="../images/Schem.PNG">
 
 <h3>PCB Layout</h3>
 
-<img class="ui centered extra-large image" src="../images/Layout.png">
+<img class="ui centered extra-large image" src="../images/Layout.PNG">
 
 <b>Source:</b> <a href="https://github.com/MarkG98/Ocean_Sense"><i class="large github icon "></i>MarkG98 / Ocean_Sense</a>
