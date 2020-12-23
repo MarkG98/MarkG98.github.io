@@ -6,7 +6,7 @@ title: Research
 
 <h1>Conference Publications and Presentations</h1>
 
-<b>M. Goldwater</b>, J. Bonnel, D.P. Zitterbart (2020, December). "Classification of dispersive calls using a convolutional neural network," Presentation at the Acoustical Society of America’s Acoustics Virtually Everywhere meeting. [<a href="https://player.vimeo.com/video/477647534" target="_blank">video</a>]
+<b>M. Goldwater</b>, J. Bonnel, and D. P. Zitterbart, “Classification of dispersive calls using a convolutional neural network,” The  Journal of the Acoustical Society of America, vol. 148, no. 4, pp. 2687–2687, Oct. 2020, doi: <a href="10.1121/1.5147439">10.1121/1.5147439.</a> [<a href="https://player.vimeo.com/video/477647534" target="_blank">video</a>]
 
 <b>M. Goldwater</b> et al., "An 802.11 Compatible Asymmetric Hybrid Visible-Light and Radio-Frequency Communications System," 2020 IEEE 31st Annual International Symposium on Personal, Indoor and Mobile Radio Communications, London, United Kingdom, 2020, pp. 1-7, doi: <a href="https://doi.org/10.1109/PIMRC48278.2020.9217371" target="_blank">10.1109/PIMRC48278.2020.9217371</a>.
 
