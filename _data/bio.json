@@ -32,6 +32,11 @@
         "network": "linkedin",
         "username": "mark-g",
         "url": "http://linkedin.com/in/mark-g-892273125"
+      },
+      {
+        "network": "twitter",
+        "username": "mark_goldwater",
+        "url": "https://twitter.com/mark_goldwater"
       }
     ]
   },
