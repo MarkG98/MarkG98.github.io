@@ -6,9 +6,11 @@ title: Research
 
 <h1>Conference Publications and Presentations</h1>
 
-<b>M. Goldwater</b>, J. Bonnel, and D. P. Zitterbart, “Classification of dispersive calls using a convolutional neural network,” The  Journal of the Acoustical Society of America, vol. 148, no. 4, pp. 2687–2687, Oct. 2020, doi: <a href="10.1121/1.5147439">10.1121/1.5147439.</a> [<a href="https://player.vimeo.com/video/477647534" target="_blank">video</a>]
+[3] <b>M. Goldwater</b>, J. Bonnel, A. Cammareri, D. Wright, and D.P. Zitterbart. "Classification of dispersive gunshot calls using a convolutional neural network." <em>JASA Express Letters</em> 1.10 (2021): 106002.
 
-<b>M. Goldwater</b> et al., "An 802.11 Compatible Asymmetric Hybrid Visible-Light and Radio-Frequency Communications System," 2020 IEEE 31st Annual International Symposium on Personal, Indoor and Mobile Radio Communications, London, United Kingdom, 2020, pp. 1-7, doi: <a href="https://doi.org/10.1109/PIMRC48278.2020.9217371" target="_blank">10.1109/PIMRC48278.2020.9217371</a>.
+[2] <b>M. Goldwater</b>, J. Bonnel, and D. P. Zitterbart, “Classification of dispersive calls using a convolutional neural network,” <em>The Journal of the Acoustical Society of America</em>, 148.4 (2020): 2687-2687, doi: <a href="10.1121/1.5147439">10.1121/1.5147439.</a> [<a href="https://player.vimeo.com/video/477647534" target="_blank">video</a>]
+
+[1] <b>M. Goldwater</b> et al., "An 802.11 Compatible Asymmetric Hybrid Visible-Light and Radio-Frequency Communications System," <em>2020 IEEE 31st Annual International Symposium on Personal, Indoor and Mobile Radio Communications</em>, London, United Kingdom, 2020, pp. 1-7, doi: <a href="https://doi.org/10.1109/PIMRC48278.2020.9217371" target="_blank">10.1109/PIMRC48278.2020.9217371</a>.
 
 <h1>Other Presentations</h1>
 
