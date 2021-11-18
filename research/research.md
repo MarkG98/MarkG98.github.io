@@ -4,7 +4,7 @@ type: essay
 title: Research
 ---
 
-<h1>Conference Publications and Presentations</h1>
+<h1>Publications and Presentations</h1>
 
 [3] <b>M. Goldwater</b>, J. Bonnel, A. Cammareri, D. Wright, and D.P. Zitterbart. "Classification of dispersive gunshot calls using a convolutional neural network." <em>JASA Express Letters</em> 1.10 (2021): 106002, doi: <a href="https://doi.org/10.1121/10.0006718" target="_blank">https://doi.org/10.1121/10.0006718</a>.
 
