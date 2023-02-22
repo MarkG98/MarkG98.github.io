@@ -5,12 +5,13 @@ title: Research
 ---
 
 <h1>Publications</h1>
+[4] <b>M. Goldwater</b>, D.P. Zitterbart, D. Wright, and J. Bonnel. "Machine-learning-based simultaneous detection and ranging of impulsive baleen whale vocalizations using a single hydrophone." <em>The Journal of the Acoustical Society of America</em> 153.2 (2023): 1094-1107. doi: <a href="https://doi.org/10.1121/10.0017118" target="_blank">https://doi.org/10.1121/10.0017118</a>
 
-[3] P. Boyalakuntla, <b>M. Goldwater</b>, U. Gupta, W. Q. Lohmeyer and S. Govindasamy, "An Undergraduate-level, Problem-based Introduction to Orthogonal Frequency-Division Multiplexing," <em>2022 IEEE Frontiers in Education Conference (FIE)</em>, 2022, pp. 1-8, doi: <a href="https://doi.org/10.1109/FIE56618.2022.9962599" target="_blank">https://doi.org/10.1109/FIE56618.2022.9962599</a>.
+[3] P. Boyalakuntla, <b>M. Goldwater</b>, U. Gupta, W. Q. Lohmeyer and S. Govindasamy, "An Undergraduate-level, Problem-based Introduction to Orthogonal Frequency-Division Multiplexing." <em>2022 IEEE Frontiers in Education Conference (FIE)</em>. IEEE, 2022. doi: <a href="https://doi.org/10.1109/FIE56618.2022.9962599" target="_blank">https://doi.org/10.1109/FIE56618.2022.9962599</a>.
 
 [2] <b>M. Goldwater</b>, J. Bonnel, A. Cammareri, D. Wright, and D.P. Zitterbart. "Classification of dispersive gunshot calls using a convolutional neural network." <em>JASA Express Letters</em> 1.10 (2021): 106002, doi: <a href="https://doi.org/10.1121/10.0006718" target="_blank">https://doi.org/10.1121/10.0006718</a>.
 
-[1] <b>M. Goldwater</b> et al., "An 802.11 Compatible Asymmetric Hybrid Visible-Light and Radio-Frequency Communications System," <em>2020 IEEE 31st Annual International Symposium on Personal, Indoor and Mobile Radio Communications</em>, London, United Kingdom, 2020, pp. 1-7, doi: <a href="https://doi.org/10.1109/PIMRC48278.2020.9217371" target="_blank">https://doi.org/10.1109/PIMRC48278.2020.9217371</a>.
+[1] <b>M. Goldwater</b>, P. Dhulipalla, M. Kang, T. Kim, N. Tan, S. Govindasamy, M.B. Rahaim. "An 802.11 Compatible Asymmetric Hybrid Visible-Light and Radio-Frequency Communications System," <em>2020 IEEE 31st Annual International Symposium on Personal, Indoor and Mobile Radio Communications</em>. IEEE, 2020. doi: <a href="https://doi.org/10.1109/PIMRC48278.2020.9217371" target="_blank">https://doi.org/10.1109/PIMRC48278.2020.9217371</a>.
 
 <h1>Presentations</h1>
 [2] <b>M. Goldwater</b>, D.P. Zitterbart, D. Wright, and J. Bonnel. "Simultaneous detection and ranging of baleen whale impulsive vocalizations using a temporal convolutional network." At 183rd Meeting of the Acoustical Society of America. Nashville, TN. December 2022.
